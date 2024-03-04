@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NovaGateFrontend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dcff851b8eb2c8dd58bdd9f30cb36cba0699e25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8ff1b648792f73a7101e15bea5a0c201a939b97")]
 [assembly: System.Reflection.AssemblyProductAttribute("NovaGateFrontend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NovaGateFrontend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
