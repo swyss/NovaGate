@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\dev\com\NovaGate\NovaGate\NovaGateFrontend
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/dev/com/NovaGate/NovaGate/NovaGateFrontend/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/com/NovaGate/NovaGate/NovaGateFrontend/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/com/NovaGate/NovaGate/NovaGateFrontend/Pages/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/dev/com/NovaGate/NovaGate/NovaGateFrontend/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,6 +44,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/dev/com/NovaGate/NovaGate/NovaGateFrontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/com/NovaGate/NovaGate/NovaGateFrontend/Pages/User/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/com/NovaGate/NovaGate/NovaGateFrontend/Pages/User/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxTZXR0aW5ncy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/dev/com/NovaGate/NovaGate/NovaGateFrontend/Pages/_ViewImports.cshtml]
