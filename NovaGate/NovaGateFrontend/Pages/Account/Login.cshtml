@@ -1,0 +1,22 @@
+@page
+@model NovaGateFrontend.Pages.Account.Login
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="LoginCredentials.Username"></label>
+        <input asp-for="LoginCredentials.Username" class="form-control" />
+        <span asp-validation-for="LoginCredentials.Username" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="LoginCredentials.Password"></label>
+        <input asp-for="LoginCredentials.Password" class="form-control" />
+        <span asp-validation-for="LoginCredentials.Password" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Anmelden</button>
+</form>
