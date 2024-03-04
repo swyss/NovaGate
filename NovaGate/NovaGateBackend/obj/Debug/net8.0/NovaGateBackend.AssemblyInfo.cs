@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NovaGateBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8ff1b648792f73a7101e15bea5a0c201a939b97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5137dd3bcd592576dce8df4d03127ec9c7f1f2d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("NovaGateBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NovaGateBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
