@@ -15,6 +15,14 @@
         <vm:MainWindowViewModel/>
     </Design.DataContext>
 
-    <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    <!-- <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/> -->
+    
+    <Grid ColumnDefinitions="Auto,*,10" RowDefinitions="100,*,100"  Margin="4" >
+        <Rectangle Fill="Yellow" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3"/>
+        <Rectangle Fill="Green" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="1" Width="100"/>
+        <Rectangle Fill="Gray" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="1"/>
+        <Rectangle Fill="Yellow" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3"/>
+        
+    </Grid>
 
 </Window>
