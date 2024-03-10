@@ -20,5 +20,14 @@ build_property.EnableGeneratedComInterfaceComImportInterop =
 [D:/dev/com/NovaGate/src/NovaGate/NovaGateFrontend/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[D:/dev/com/NovaGate/src/NovaGate/NovaGateFrontend/Controls/CardControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[D:/dev/com/NovaGate/src/NovaGate/NovaGateFrontend/Views/Layout/AppDrawer.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[D:/dev/com/NovaGate/src/NovaGate/NovaGateFrontend/Views/Layout/AppHeader.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [D:/dev/com/NovaGate/src/NovaGate/NovaGateFrontend/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
