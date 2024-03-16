@@ -34,11 +34,9 @@ D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\Microsoft.Cod
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
-D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\ReactiveUI.dll
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\SkiaSharp.dll
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\Splat.dll
-D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\System.Drawing.Common.dll
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\System.IO.Pipelines.dll
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\System.Reactive.dll
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\Tmds.DBus.Protocol.dll
@@ -106,7 +104,6 @@ D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\runtimes\osx\
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
-D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\runtimes\linux-arm\native\libSkiaSharp.so
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\runtimes\linux-arm64\native\libSkiaSharp.so
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
@@ -115,8 +112,6 @@ D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\runtimes\osx\
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
-D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\obj\Debug\net7.0\NovaGateFrontend.csproj.AssemblyReference.cache
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\obj\Debug\net7.0\Avalonia\resources
@@ -135,3 +130,9 @@ D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\obj\Debug\net7.0\NovaGateFront
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\obj\Debug\net7.0\NovaGateFrontend.csproj.CopyComplete
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\obj\Debug\net7.0\NovaGateFrontend.genruntimeconfig.cache
 D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\obj\Debug\net7.0\ref\NovaGateFrontend.dll
+D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\Material.Avalonia.dll
+D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\Material.Colors.dll
+D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\Material.Ripple.dll
+D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\Material.Styles.dll
+D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\Material.Icons.dll
+D:\dev\com\NovaGate\src\NovaGate\NovaGateFrontend\bin\Debug\net7.0\Material.Icons.Avalonia.dll
