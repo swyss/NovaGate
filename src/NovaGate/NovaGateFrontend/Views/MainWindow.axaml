@@ -1,0 +1,39 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:NovaGateFrontend.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:styles="clr-namespace:Material.Styles.Controls;assembly=Material.Styles"
+        xmlns:materialIcons="clr-namespace:Material.Icons.Avalonia;assembly=Material.Icons.Avalonia"
+        xmlns:layout="clr-namespace:NovaGateFrontend.Views.Layout;assembly=NovaGateFrontend"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+
+        x:Class="NovaGateFrontend.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="NovaGateFrontend">
+
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <vm:MainWindowViewModel />
+    </Design.DataContext>
+
+    <!-- <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/> -->
+
+    <Grid ColumnDefinitions="Auto,*,10" RowDefinitions="100,*,100" Margin="4">
+        <layout:AppHeader Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" />
+        <layout:AppDrawer Grid.Row="1" Grid.Column="0" Width="200" />
+        <Rectangle Fill="Gray" Grid.Row="1" Grid.Column="1" />
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <styles:Card Margin="16">
+                <TextBlock Classes="Headline6" Text="Hello world with Material.Avalonia!"/>
+                
+            </styles:Card>
+            <Button Content="{materialIcons:MaterialIconExt Kind=Abacus}" />
+        </StackPanel>
+        <Rectangle Fill="Yellow" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" />
+
+    </Grid>
+
+</Window>

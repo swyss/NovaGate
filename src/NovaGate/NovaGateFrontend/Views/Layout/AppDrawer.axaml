@@ -1,0 +1,55 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:materialIcons="clr-namespace:Material.Icons.Avalonia;assembly=Material.Icons.Avalonia"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="NovaGateFrontend.Views.Layout.AppDrawer">
+    <TabControl TabStripPlacement="Left">
+        <TabItem Margin="10">
+            <TabItem.Header>
+                <StackPanel Orientation="Horizontal" Width="150">
+                    <materialIcons:MaterialIcon Kind="TabletDashboard" Height="100" Width="100"/>
+                    <TextBlock Margin="5,0,0,0">Overview</TextBlock>
+                </StackPanel>
+            </TabItem.Header>
+            <TextBlock Text="Tab 1 Content"/>
+        </TabItem>
+        <TabItem Margin="10">
+            <TabItem.Header>
+                <StackPanel Orientation="Horizontal" Width="150">
+                    <materialIcons:MaterialIcon Kind="FormatListBulletedType" Height="100" Width="100"/>
+                    <TextBlock Margin="5,0,0,0">L</TextBlock>
+                </StackPanel>
+            </TabItem.Header>
+            <TextBlock Text="Tab 1 Content"/>
+        </TabItem>
+        <TabItem Margin="10">
+            <TabItem.Header>
+                <StackPanel Orientation="Horizontal" Width="150">
+                    <materialIcons:MaterialIcon Kind="StarBoxOutline" Height="100" Width="100"/>
+                    <TextBlock Margin="5,0,0,0">Tab 1</TextBlock>
+                </StackPanel>
+            </TabItem.Header>
+            <TextBlock Text="Tab 1 Content"/>
+        </TabItem>
+        <TabItem Margin="10">
+            <TabItem.Header>
+                <StackPanel Orientation="Horizontal" Width="150">
+                    <materialIcons:MaterialIcon Kind="Cogs" Height="100" Width="100"/>
+                    <TextBlock Margin="5,0,0,0">Tab 1</TextBlock>
+                </StackPanel>
+            </TabItem.Header>
+            <TextBlock Text="Tab 1 Content"/>
+        </TabItem>
+        <TabItem Margin="10">
+            <TabItem.Header>
+                <StackPanel Orientation="Horizontal" Width="150">
+                    <materialIcons:MaterialIcon Kind="AccountCircleOutline" Height="100" Width="100"/>
+                    <TextBlock Margin="5,0,0,0">Tab 1</TextBlock>
+                </StackPanel>
+            </TabItem.Header>
+            <TextBlock Text="Tab 1 Content"/>
+        </TabItem>
+    </TabControl>
+</UserControl>

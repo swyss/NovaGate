@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="NovaGateFrontend/App.axaml" value="NovaGateFrontend/NovaGateFrontend.csproj" />
+        <entry key="NovaGateFrontend/Controls/CardControl.axaml" value="NovaGateFrontend/NovaGateFrontend.csproj" />
+        <entry key="NovaGateFrontend/Views/Layout/AppDrawer.axaml" value="NovaGateFrontend/NovaGateFrontend.csproj" />
+        <entry key="NovaGateFrontend/Views/Layout/AppHeader.axaml" value="NovaGateFrontend/NovaGateFrontend.csproj" />
+        <entry key="NovaGateFrontend/Views/MainWindow.axaml" value="NovaGateFrontend/NovaGateFrontend.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
